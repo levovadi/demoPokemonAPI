@@ -1,4 +1,7 @@
-# Pokédex — Assessment técnico React Native
+<img width="1512" height="982" alt="Screenshot 2026-09-15 at 7 01 54 a m" src="https://github.com/user-attachments/assets/25301b7f-90da-4490-933f-08cc1779957b" />
+
+
+# Pokédex — React Native
 
 Aplicación móvil que consulta [PokéAPI](https://pokeapi.co/) para mostrar los primeros 20 Pokémon y su detalle, con **Clean Architecture**, persistencia local y una interfaz nativa (sin librerías de UI).
 
